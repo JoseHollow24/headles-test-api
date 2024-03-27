@@ -1,0 +1,31 @@
+{
+  "mainNav": {
+    "items": [
+      {
+        "url": "/",
+        "title": "Home",
+        "slug": "home"
+      },
+      {
+        "url": "/services/",
+        "title": "Services",
+        "slug": "services"
+      },
+      {
+        "url": "/contact/",
+        "title": "Contact",
+        "slug": "contact"
+      },
+      {
+        "url": "/about/",
+        "title": "About",
+        "slug": "about"
+      }
+    ]
+  },
+  "mainLogo": "https://cheflab.custom.cl/wp-content/uploads/2020/09/instant-blog.svg",
+  "name": "example",
+  "header": {
+    "top_bar": "TopBar HTML"
+  }
+}
